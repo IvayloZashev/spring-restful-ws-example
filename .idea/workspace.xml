@@ -2,8 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b19796-1892-4eac-90df-427357ab7f06" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_7_0_52.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_7_0_52.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_7_0_52.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_mockito_mockito_core_1_9_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_objenesis_objenesis_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_aop_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_beans_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_context_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_core_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_expression_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_web_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_webmvc_4_0_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_yaml_snakeyaml_1_13.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/calculator/Application.java" afterPath="$PROJECT_DIR$/src/main/java/calculator/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/calculator/FiguresController.java" afterPath="$PROJECT_DIR$/src/main/java/calculator/FiguresController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calculator.iml" afterPath="$PROJECT_DIR$/calculator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="calculator.iws" />
@@ -31,8 +65,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20168068">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.47058824">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -52,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator/FiguresController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <caret line="49" column="105" selection-start-line="49" selection-start-column="105" selection-end-line="49" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -82,8 +116,10 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,8 +158,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/calculator/SumEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/calculator/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculator/FiguresController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/calculator/Application.java" />
       </list>
     </option>
   </component>
@@ -295,13 +332,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
-    <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="calculator.Application" />
-      <module name="calculator" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -559,16 +589,24 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="calculator.Application" />
+      <module name="calculator" />
+      <envs />
       <method />
     </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -577,29 +615,32 @@
       <created>1437049707865</created>
       <option name="number" value="Default" />
       <updated>1437049707865</updated>
-      <workItem from="1437049710913" duration="1369000" />
+      <workItem from="1437049710913" duration="2693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1369000" />
+    <option name="totallyTimeSpent" value="2693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -626,22 +667,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Figures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/FiguresController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/FiguresService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -674,18 +699,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Figures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/FiguresController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="105" selection-start-line="49" selection-start-column="105" selection-end-line="49" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20168068">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.47058824">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
           <folding />
         </state>
       </provider>
