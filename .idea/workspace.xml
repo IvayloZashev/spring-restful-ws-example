@@ -2,43 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b19796-1892-4eac-90df-427357ab7f06" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_7_0_52.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_7_0_52.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_7_0_52.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_mockito_mockito_core_1_9_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_objenesis_objenesis_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_0_0_BUILD_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_aop_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_beans_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_context_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_core_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_expression_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_web_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_springframework_spring_webmvc_4_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\.idea\libraries\Maven__org_yaml_snakeyaml_1_13.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/calculator/Application.java" afterPath="$PROJECT_DIR$/src/main/java/calculator/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/calculator/FiguresController.java" afterPath="$PROJECT_DIR$/src/main/java/calculator/FiguresController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calculator.iml" afterPath="$PROJECT_DIR$/calculator.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\target\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\target\classes\calculator\Application.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\target\classes\calculator\Figures.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\target\classes\calculator\FiguresController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\target\classes\calculator\FiguresService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\target\classes\calculator\MultiplyEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\target\classes\calculator\SubtractEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ivaylo\IdeaProjects\calculator\target\classes\calculator\SumEntity.class" afterPath="" />
     </list>
     <ignored path="calculator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -615,12 +586,12 @@
       <created>1437049707865</created>
       <option name="number" value="Default" />
       <updated>1437049707865</updated>
-      <workItem from="1437049710913" duration="2693000" />
+      <workItem from="1437049710913" duration="3077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2693000" />
+    <option name="totallyTimeSpent" value="3077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
@@ -635,10 +606,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
