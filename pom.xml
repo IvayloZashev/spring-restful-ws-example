@@ -22,13 +22,13 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
 
-            <!-- Ivaylo: Uncomment if you want to deploy on Java EE AS-->
-            <!--<exclusions>
+            <!-- Ivaylo: We are deploying on wildFly -->
+            <exclusions>
                 <exclusion>
                     <groupId>org.springframework.boot</groupId>
                     <artifactId>spring-boot-starter-tomcat</artifactId>
                 </exclusion>
-            </exclusions>-->
+            </exclusions>
         </dependency>
 
         <dependency>
@@ -49,6 +49,7 @@
 
     <!--We are building spring boot application with maven-->
     <build>
+        <finalName>calculator</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
