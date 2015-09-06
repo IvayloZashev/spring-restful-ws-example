@@ -20,9 +20,9 @@ public class FiguresService {
         }
     }
 
-    public int multiply(int firstNumber, int seocndNumber) {
+    public int multiply(int firstNumber, int secondNumber) {
 
-        return firstNumber * seocndNumber;
+        return firstNumber * secondNumber;
 
     }
 
